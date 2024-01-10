@@ -3,6 +3,16 @@ entries:
   productcatalog:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2024-01-10T22:06:56.01222016Z"
+    description: A reference example TMFC001-ProductCatalogManagement ODA Component
+    digest: 0cdda66126b00c29a9423bab8021833b71bf1c86f8d6fe3023859bb2bdc43ca2
+    name: productcatalog
+    type: application
+    urls:
+    - https://github.com/LesterThomas/reference-example-components/releases/download/productcatalog-0.1.4/productcatalog-0.1.4.tgz
+    version: 0.1.4
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2024-01-10T11:37:29.959533789Z"
     description: A reference example TMFC001-ProductCatalogManagement ODA Component
     digest: 8b9dfb11f0869ed460068f80b032c260305c5e09bd56ff9640512be8efd89e36
@@ -34,6 +44,16 @@ entries:
   productinventory:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2024-01-10T22:06:56.141948255Z"
+    description: A reference example TMFC005-ProductInventoryManagement ODA Component
+    digest: 4273d218be049957603304d6abe2896d06f1c9fbd73e016356303814512f7bc1
+    name: productinventory
+    type: application
+    urls:
+    - https://github.com/LesterThomas/reference-example-components/releases/download/productinventory-0.1.2/productinventory-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2024-01-10T11:55:20.618794797Z"
     description: A reference example TMFC005-ProductInventoryManagement ODA Component
     digest: 37644b69dee6a1b78b2b4196625bebb4cc64f3e3903cb2c95af07669d8216707
@@ -42,4 +62,4 @@ entries:
     urls:
     - https://github.com/LesterThomas/reference-example-components/releases/download/productinventory-0.1.1/productinventory-0.1.1.tgz
     version: 0.1.1
-generated: "2024-01-10T11:55:20.618810226Z"
+generated: "2024-01-10T22:06:56.141967851Z"
