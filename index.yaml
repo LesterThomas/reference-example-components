@@ -31,4 +31,15 @@ entries:
     urls:
     - https://github.com/LesterThomas/reference-example-components/releases/download/productcatalog-0.1.1/productcatalog-0.1.1.tgz
     version: 0.1.1
-generated: "2024-01-10T11:37:29.959544799Z"
+  productinventory:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-01-10T11:55:20.618794797Z"
+    description: A reference example TMFC005-ProductInventoryManagement ODA Component
+    digest: 37644b69dee6a1b78b2b4196625bebb4cc64f3e3903cb2c95af07669d8216707
+    name: productinventory
+    type: application
+    urls:
+    - https://github.com/LesterThomas/reference-example-components/releases/download/productinventory-0.1.1/productinventory-0.1.1.tgz
+    version: 0.1.1
+generated: "2024-01-10T11:55:20.618810226Z"
