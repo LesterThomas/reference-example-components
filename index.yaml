@@ -3,6 +3,16 @@ entries:
   productcatalog:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2024-01-10T11:34:36.642021053Z"
+    description: A Helm chart for Kubernetes
+    digest: a5a01c6c78a2970fd7bb4177cc74bb47f7afe3f7a011b030a17fd87c0f1c69ed
+    name: productcatalog
+    type: application
+    urls:
+    - https://github.com/LesterThomas/reference-example-components/releases/download/productcatalog-0.1.2/productcatalog-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2024-01-10T11:24:03.084660548Z"
     description: A Helm chart for Kubernetes
     digest: d7e44e1efa3e72283d4ed0227b84d29ad2e52c396b1d47a39aa3266f5df21285
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://github.com/LesterThomas/reference-example-components/releases/download/productcatalog-0.1.1/productcatalog-0.1.1.tgz
     version: 0.1.1
-generated: "2024-01-10T11:24:03.084670537Z"
+generated: "2024-01-10T11:34:36.642032946Z"
